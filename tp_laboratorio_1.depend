@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1491599703 source:c:\tp1\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"operaciones_fun.h"
+	"jem_fun.h"
+	"Menu.h"
+
+1491599847 c:\tp1\tp_laboratorio_1\operaciones_fun.h
+	"operaciones_fun.c"
+
+1491599745 c:\tp1\tp_laboratorio_1\operaciones_fun.c
+
+1491599783 c:\tp1\tp_laboratorio_1\jem_fun.h
+	"jem_fun.c"
+
+1491599703 c:\tp1\tp_laboratorio_1\jem_fun.c
+
+1491599817 c:\tp1\tp_laboratorio_1\menu.h
+
